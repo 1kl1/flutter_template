@@ -2,6 +2,19 @@
 
 # 시작하기
 
+
+[Coding Style](https://github.com/1kl1/flutter_template/blob/main/coding_style.pdf)
+
+[State Management](https://github.com/1kl1/flutter_template/blob/main/state_management.pdf)
+
+[Code Generation](https://github.com/1kl1/flutter_template/blob/main/code_generation.pdf)
+
+[Api Handling](https://github.com/1kl1/flutter_template/blob/main/api_handling.pdf)
+
+[Recommendations](https://github.com/1kl1/flutter_template/blob/main/recommendations.pdf)
+
+
+
 ### 요구사항
 
 - Flutter SDK 
@@ -26,18 +39,5 @@ cd favy
 ```bash
 flutter pub get
 ```
-
-
-
-[Coding Style](https://github.com/1kl1/flutter_template/blob/main/coding_style.pdf)
-
-[State Management](https://github.com/1kl1/flutter_template/blob/main/state_management.pdf)
-
-[Code Generation](https://github.com/1kl1/flutter_template/blob/main/code_generation.pdf)
-
-[Api Handling](https://github.com/1kl1/flutter_template/blob/main/api_handling.pdf)
-
-[Recommendations](https://github.com/1kl1/flutter_template/blob/main/recommendations.pdf)
-
 
 
