@@ -29,15 +29,15 @@ flutter pub get
 
 
 
-[## Coding Style](https://github.com/1kl1/flutter_template/blob/main/api_handling.pdf)
+[Coding Style](https://github.com/1kl1/flutter_template/blob/main/coding_style.pdf)
 
-## State Management
+[State Management](https://github.com/1kl1/flutter_template/blob/main/state_management.pdf)
 
-## Code Generation
+[Code Generation](https://github.com/1kl1/flutter_template/blob/main/code_generation.pdf)
 
-[## Api Handling](https://github.com/1kl1/flutter_template/blob/main/api_handling.pdf)
+[Api Handling](https://github.com/1kl1/flutter_template/blob/main/api_handling.pdf)
 
-## Recommendations
+[Recommendations](https://github.com/1kl1/flutter_template/blob/main/recommendations.pdf)
 
 
 
